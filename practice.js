@@ -78,7 +78,7 @@ function myName(){
 
 //Now alert the result of invoking newMyName
 
-alert (newMyName);
+alert (newMyName());
 
 //Next problem
 
